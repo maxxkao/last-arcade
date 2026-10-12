@@ -20,6 +20,7 @@ AI 時代的最後一間街機廳——一款等角視角的街機廳經營模�
 - 帶著 NT$500,000 開一間街機廳，賺到第一個目標 NT$500,000 的累計利潤，接著挑戰 100 萬、200 萬……
 - 付不出房租時可以申請一次緊急貸款，之後再付不出來就破產，記得留一點周轉金。
 - 賺夠了可以在「選單」開分店，但每間店都要付員工薪水。
+- 開新遊戲時可以幫街機廳取名（例如「電玩中古街」），分店會依序叫「電玩中古街1號店、2號店…」；之後想改名可以在「選單」換招牌，每間店 NT$15,000。
 
 ### 🛠️ 擺設
 - 按「建造」打開型錄，裡面有機台、設備、地面裝潢、牆面裝飾、地板和壁紙。
@@ -72,6 +73,7 @@ AI 時代的最後一間街機廳——一款等角視角的街機廳經營模�
 - Open an arcade with NT$500,000 in savings. Reach your first goal of NT$500,000 total profit, then go for 1 million, 2 million…
 - If you can't pay the rent you can take one emergency loan; miss rent again and you go bankrupt, so keep some cash on hand.
 - Once you've earned enough, open a branch from the Menu — but every store has to pay an employee.
+- When starting a new game you can name your arcade (e.g. "Retro Alley"); branches are numbered "Retro Alley #1, #2…". To rename later, buy new signs from the Menu (NT$15,000 per store).
 
 ### 🛠️ Building
 - Press "Build" to open the catalog: machines, facilities, floor decor, wall decor, flooring and wallpaper.
