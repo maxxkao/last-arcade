@@ -29,6 +29,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - 經典復古機和雙打復古機購入時可以挑選遊戲（小精靈、打飛機、俄羅斯方塊等）和機身顏色；顏色買了就不能改，遊戲之後可以花錢「換機板」，費用約機台價格的三成，換完機台的人氣會像新機一樣回升。
 - 機台只能在開幕前的籌備期，以及每月月結後買賣；裝潢則每天都能調整。
 - 回收價：第一次開幕前賣掉，可以全額（100%）拿回，放心多試幾種擺法；開幕後就依折舊計算，第一個月 70%，之後每個月再少一些（最低 20%）。
+- 入口位置：開幕前可以免費調整；開幕後要在「選單 → 搬移入口」改，工程費 NT$80,000，每間店每個月只能搬一次。
 - 右上角的 ⟲ ⟳（或鍵盤 Q / E）可以切換四個視角，方便看到不同方向的機台正面。
 
 ### 🕹️ 營業
@@ -63,6 +64,9 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - 日報表會提示哪台機台讓最多客人等不到，可以考慮多買一台。
 - 裝潢風格一致、分數越高，來客越多、客人越滿意。
 - 天氣和每週新聞會影響人潮，看「明日」預報安排休息日。
+- 沙發可以讓逛累的客人坐下休息，搖搖馬很受情侶和學生歡迎；兩者都不收錢，但能提升客人的滿意度。
+- 右上角的 📷 可以拍下整間店的全貌，下載或分享給朋友。
+- 有建議或遇到問題，可以從「選單 → 建議與問題回報」寫信給我們。
 - 遊戲每天結算後自動存檔；換裝置可以用「選單」的匯出 / 匯入存檔。
 
 ---
@@ -82,6 +86,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - The Classic and Duo Retro Cabinets let you choose a game (Pac-Man style, shooter, Tetris…) and a body color when you buy them. The color is permanent, but you can pay to "swap the game board" later for about 30% of the machine price — the machine becomes as popular as a new one.
 - Machines can only be bought or sold during setup (before opening) and right after each monthly settlement; decor can be changed every day.
 - Resale: anything sold before your first opening is refunded 100%. After opening it depreciates: 70% in the first month, then a little less each month (minimum 20%).
+- Entrance: free to move during setup. After opening, use Menu → Move Entrance; it costs NT$80,000 and each shop can move it once a month.
 - Use ⟲ ⟳ at the top right (or Q / E) to switch between four views.
 
 ### 🕹️ Opening Hours
@@ -115,6 +120,9 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - The daily report points out which machine made the most customers give up — consider buying another one.
 - A consistent decor style and a high decor score bring more and happier customers.
 - Weather and weekly news affect foot traffic; check tomorrow's forecast to plan days off.
+- Sofas let tired customers sit and rest, and rocking horses are popular with couples and students. Neither charges money, but both raise customer satisfaction.
+- The 📷 button at the top right takes a photo of your whole shop to download or share.
+- Got suggestions or found a bug? Use Menu → Feedback & Bug Report to email us.
 - The game saves automatically after every day. To move to another device, use Export / Import Save in the Menu.
 
 ---
