@@ -38,14 +38,14 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - 「公休」可以休息一天不開店，機台會恢復耐用度，送修的機台也會修好。
 
 ### 🎰 機台
-- 投幣越貴、難度越高，前期賺得多，但客人會越來越覺得不值得（挫折感上升）而不玩；簡單的機台比較能接受高價。
+- 投幣越貴、難度越高，前期賺得多，但客人會越來越覺得不值得（挫折感上升）而不玩；簡單的機台比較能接受高價。整間店的價格偏貴、或很多機台太坑，口碑傳開後路過的人也會比較不想進來。
 - 每台機台都有「耐用度」，用完會故障，要花錢送修並停機 1 天；關機或公休可以讓它休息、恢復耐用度。
 - 每天打烊後可以幫機台「保養」：比送修便宜、不用停機，每次恢復三成耐用度（每台每天限一次，壽命不會因此延長）。開始「連續營業」前先保養一輪，可以減少中途故障。
 - 「壽命」用完就報廢，只能賣廢鐵。
 - 點選機台可以看到頭上的血條（耐用度）、投幣和難度。
 
 ### ❗ 店裡的狀況
-- 櫃台店員頭上冒出紅色「！」：電玩高手來了！高手很少出現，但一坐下就霸佔一台機台 2～3 小時，只投 1～3 次幣。
+- 櫃台店員頭上冒出紅色「！」：電玩高手來了！高手很少出現，但一坐下就霸佔一台機台 2～3 小時，只投 1～3 次幣；而且其他客人會圍過去看他玩，站著看的時候不會投幣，有些人看完就直接走了，那段時間收入會變少。點一下店員可以看到高手在哪一台。
 - 店員頭上冒出「…」：店裡已經很久沒有客人了，想想是不是該換機台、調價格或加強裝潢。
 
 ### 👥 員工
@@ -91,14 +91,14 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - "Day Off" skips a day without opening: machines regain durability and machines in repair get fixed.
 
 ### 🎰 Machines
-- Higher coin prices and harder difficulty earn more at first, but players gradually feel it isn't worth it (frustration rises) and stop playing. Easy machines tolerate higher prices better.
+- Higher coin prices and harder difficulty earn more at first, but players gradually feel it isn't worth it (frustration rises) and stop playing. Easy machines tolerate higher prices better. If the whole shop is overpriced or many machines feel rigged, word gets around and fewer passers-by come in.
 - Every machine has "durability". When it runs out the machine breaks down and must be repaired (costs money and 1 day of downtime). Switching a machine off or taking a day off lets it rest and recover.
 - After closing each day you can "service" a machine: cheaper than a repair and no downtime, it restores 30% durability (once per machine per day; it doesn't extend lifespan).
 - When "lifespan" runs out the machine is scrapped and can only be sold for scrap.
 - Tap a machine to see its health bar (durability), coin price and difficulty.
 
 ### ❗ Things to Watch
-- A red "!" over the clerk: a pro gamer has arrived! They're rare, but once seated they hog one machine for 2–3 hours and only insert 1–3 coins.
+- A red "!" over the clerk: a pro gamer has arrived! They're rare, but once seated they hog one machine for 2–3 hours and only insert 1–3 coins. Other customers crowd around to watch instead of playing (some leave right after), so income drops while they're here. Tap the clerk to see which machine they're on.
 - "…" over the clerk: nobody has come in for a long time — consider new machines, different prices or better decor.
 
 ### 👥 Staff
