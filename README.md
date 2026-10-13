@@ -95,7 +95,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 ### 🕹️ Opening Hours
 - The arcade is open 11:00–21:00; one in-game day takes about 5 minutes. Use ⏸ 1x 2x 4x to change speed and ⏭ to close for the day.
 - There is a daily report at closing and a monthly settlement every 30 days (rent, wages, tax).
-- "Run Several Days" plays 5–30 days in a row. Broken machines can't be repaired mid-run, so check durability before you start.
+- "Multi-Day" plays 5–30 days in a row. Broken machines can't be repaired mid-run, so check durability before you start.
 - "Day Off" skips a day without opening: machines regain durability and machines in repair get fixed.
 
 ### 🎰 Machines
