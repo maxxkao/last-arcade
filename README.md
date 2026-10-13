@@ -29,6 +29,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - 經典復古機和雙打復古機購入時可以挑選遊戲（小精靈、打飛機、俄羅斯方塊等）和機身顏色；顏色買了就不能改，遊戲之後可以花錢「換機板」，費用約機台價格的三成，換完機台的人氣會像新機一樣回升。
 - 機台只能在開幕前的籌備期，以及每月月結後買賣；裝潢則每天都能調整。
 - 回收價：第一次開幕前賣掉，可以全額（100%）拿回，放心多試幾種擺法；開幕後就依折舊計算，第一個月 70%，之後每個月再少一些（最低 20%）。
+- 個人收藏品（例如 C1電視遊戲機）只能擺在服務櫃台或展示架上，擺著就能提升人氣；可以純展示，或以原價 1.5 倍上架販售，偶爾會有客人買走。不論展示或販售，都有極小的機率被偷。收藏品不會折舊，下架一律原價退還。
 - 入口位置：開幕前可以免費調整；開幕後要在「選單 → 搬移入口」改，工程費 NT$80,000，每間店每個月只能搬一次。
 - 右上角的 ⟲ ⟳（或鍵盤 Q / E）可以切換四個視角，方便看到不同方向的機台正面。
 
@@ -67,6 +68,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - 沙發可以讓逛累的客人坐下休息，搖搖馬很受情侶和學生歡迎；兩者都不收錢，但能提升客人的滿意度。
 - 右上角的 📷 可以拍下整間店的全貌，下載或分享給朋友。
 - 有建議或遇到問題，可以從「選單 → 建議與問題回報」寫信給我們。
+- 「選單 → 營運報表」可以回顧最近 3 個月的月結，比較每個月的收支變化。
 - 遊戲每天結算後自動存檔；換裝置可以用「選單」的匯出 / 匯入存檔。
 
 ---
@@ -86,6 +88,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - The Classic and Duo Retro Cabinets let you choose a game (Pac-Man style, shooter, Tetris…) and a body color when you buy them. The color is permanent, but you can pay to "swap the game board" later for about 30% of the machine price — the machine becomes as popular as a new one.
 - Machines can only be bought or sold during setup (before opening) and right after each monthly settlement; decor can be changed every day.
 - Resale: anything sold before your first opening is refunded 100%. After opening it depreciates: 70% in the first month, then a little less each month (minimum 20%).
+- Collectibles (such as the C1 TV Game Console) can only go on the service counter or a display shelf, and they make your shop more popular. Keep them on display, or put them up for sale at 1.5× their price; now and then a customer buys one. Either way there is a tiny chance one gets stolen. Collectibles never depreciate: taking one down refunds the full price.
 - Entrance: free to move during setup. After opening, use Menu → Move Entrance; it costs NT$80,000 and each shop can move it once a month.
 - Use ⟲ ⟳ at the top right (or Q / E) to switch between four views.
 
@@ -123,6 +126,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 - Sofas let tired customers sit and rest, and rocking horses are popular with couples and students. Neither charges money, but both raise customer satisfaction.
 - The 📷 button at the top right takes a photo of your whole shop to download or share.
 - Got suggestions or found a bug? Use Menu → Feedback & Bug Report to email us.
+- Menu → Reports lets you look back at the last 3 monthly settlements and compare how income and costs changed.
 - The game saves automatically after every day. To move to another device, use Export / Import Save in the Menu.
 
 ---
