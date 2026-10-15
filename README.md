@@ -53,7 +53,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 ### 👥 員工
 - 每間店（包括第一間）都有一位員工，月薪 NT$30,000，每月月結時支付。
 - 生意太好、員工太忙時，他可能會要求加薪 NT$1,000～3,000，店越忙要越多。
-- 答應就照新的月薪支付；不答應員工會離職，你得花 NT$30,000 重新請人，新員工月薪回到 NT$30,000。
+- 答應就照新的月薪支付；不答應員工會離職，會換一位新員工，月薪回到 NT$30,000。
 - 新請的員工會做比較久才開口；加過薪的員工則會食髓知味，店的收入繼續成長時還會再要求。
 
 ### 💰 收支
@@ -112,7 +112,7 @@ AI 時代的最後一間電動間——一款等角視角的電動間經營模�
 ### 👥 Staff
 - Every store (including the first) has one employee earning NT$30,000 a month, paid at the monthly settlement.
 - When business is booming they may ask for a raise of NT$1,000–3,000 — busier stores ask for more.
-- Accept and you pay the new wage. Refuse and they quit: hiring a replacement costs NT$30,000 and the new hire starts at NT$30,000.
+- Accept and you pay the new wage. Refuse and they quit; a replacement takes over and starts at NT$30,000.
 - New hires wait longer before asking; employees who already got a raise will ask again as revenue keeps growing.
 
 ### 💰 Money
